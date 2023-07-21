@@ -86,9 +86,9 @@ author:
   location         : "Al.Lith, Makkah, Saudi Arabia"
   employer         : Umm Al.Qura University
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com.au/citations?user=6ddx-50AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com.au/citations?user=iXD-PDcAAAAJ&hl=en
   email            : "aafhazmi@uqu.edu.sa"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Ahoud-Alhazmi
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : #"abdulwahab-aljubairy/"
-  orcid            : #"https://orcid.org/0000-0001-8704-3625?lang=en"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3471-8753"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  semanticscholar  : "https://www.semanticscholar.org/author/A.-Alhazmi/65966956"
 
 
 # Reading Files
