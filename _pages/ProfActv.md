@@ -2,6 +2,13 @@
 permalink: /ProfActv/
 title: ""
 ---
+- Reviewer, Journal of Applied Intelligence(APIN), 2023.
+- Reviewer, Journal of Computing, 2023.
+- Reviewer, Journal of IEEE Transactions on Computational Social Systems, 2023.
+- Reviewer, Journal of Computing, 2022.
+- Reviewer, Journal of IEEE Transactions on Computational Social Systems, 2022.
+- Program Committee (PC) Member, the 19th International Conference on Advanced Data Mining and Applications (ADMA 2023), Shenyang, China, August 21-23, 2023.
+- Technical Program Committee (TPC) Member, the International Joint Conference on Neural Networks (IJCNN 2023), Gold Coast, Australia, June 18-23, 2023.
 - Program Committee (PC) Member, the 33rd Australian Conference on Information Systems (ACIS 2022), Melbourne, Australia, December 4 -7, 2022.
 - Program Committee (PC) Member, the 18th International Conference on Advanced Data Mining and Applications (ADMA 2022), Melbourne, Australia, November 28-30, 2022.
 - Program Committee (PC) Member, the 13th International Conference on Emerging Ubiquitous Systems and Pervasive Networks (EUSPN 2022), Leuven, Belgium, October 26-28, 2022.
