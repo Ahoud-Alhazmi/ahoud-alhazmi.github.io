@@ -3,13 +3,8 @@ permalink: /CV/
 title: ""
 ---
 CV
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Title of the document</title>
-  </head>
-  <body>
-    <iframe src="My_CV_V11.pdf#toolbar=0" width="100%" height="1500px">
-    </iframe>
-  </body>
-</html>
+<object data="Ahoud-Alhazmi-old.github.io/My_CV_V11.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="Ahoud-Alhazmi-old.github.io/My_CV_V11.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
