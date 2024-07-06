@@ -9,8 +9,8 @@ redirect_from:
 ---
 Recent News
 -----------
-- 2022: Obtained an Assistant Professor position at Umm Al.Qura University.
-- 2022: Obtained a PhD in Computer Science from Macquarie University. 
+- 2023: Obtained an Assistant Professor position at Umm Al.Qura University.
+- 2023: Obtained a PhD in Computer Science from Macquarie University. 
 
 
 Short Bio
