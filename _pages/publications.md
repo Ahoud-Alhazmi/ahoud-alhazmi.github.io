@@ -49,8 +49,4 @@ Refereed Journal Articles
 
 |<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>The Impact of Guided Metacognitive Feedback on Novice Programmers Using Learning by Teaching Environment</em></span>. Ahoud Alhazmi</span>, Rafika Maaroufi and Abdulwahab Aljubairy, Journal of King Abdulaziz University: Computing and Information Technology Sciences 8(2), 2019.| <img src="../images/KAU19.png"   height="300" width="600">
 
-  
 
-Refereed Book Chapters
----------------------
-- <span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Trust Management for Software-defined Heterogeneous Vehicular Ad Hoc Networks</em></span>. Adnan Mahmood, Wei Emma Zhang, Quan Z. Sheng, Sarah Ali Siddiqui and <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Security, Privacy and Trust in the IoT Environment.
