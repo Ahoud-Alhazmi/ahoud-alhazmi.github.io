@@ -24,7 +24,7 @@ To be Added!
 
 Awards & Achievements
 ---------------
- - Academic Excellence Award, Saudi Arabian Cultural Mission in Australia, Ministry of Education in 2019, 2020 and 2012. 
+ - Academic Excellence Award, Saudi Arabian Cultural Mission in Australia, Ministry of Education in 2019, 2020 and 2021. 
  - Golden Key, International Honour Society in 2017.
  - Academic Excellence Award, Saudi Arabian Cultural Mission in Australia, Ministry of Education in 2016.
  - Certificate of Academic Excellence, King Abdul-Aziz University in 2006, 2007 and 2008.
