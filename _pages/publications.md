@@ -42,7 +42,7 @@ Refereed Conference Proceedings
 Refereed Journal Articles
 ----------------
 
-|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Adversarial Attacks on Deep-learning Models in Natural Language Processing: A Survey</em></span>.Wei Emma Zhang, Quan Z. Sheng, <span style="color:#C0392B">Ahoud Alhazmi</span>, Chenliang Li, 2020.  ACM Transactions on Intelligent Systems and Technology (TIST), pp.1-41. [Springer]([https://link.springer.com/article/10.1007/s00521-020-05667-z](https://dl.acm.org/doi/abs/10.1145/3374217).</span> | <img src="../images/black-edit-crop.png"   height="300" width="600"> <span style="color:#C0392B">(EiC's Pick as Five Outstanding TIST Articles in Jan 2022, Highly Cited in Semantic Scholar) </span>
+|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Adversarial Attacks on Deep-learning Models in Natural Language Processing: A Survey</em></span>.Wei Emma Zhang, Quan Z. Sheng, <span style="color:#C0392B">Ahoud Alhazmi</span>, Chenliang Li, 2020.  ACM Transactions on Intelligent Systems and Technology (TIST), pp.1-41. [Springer]([https://link.springer.com/article/10.1007/s00521-020-05667-z](https://dl.acm.org/doi/abs/10.1145/3374217).</span> | <img src="../images/black-edit-crop.pdf"   height="300" width="600"> <span style="color:#C0392B">(EiC's Pick as Five Outstanding TIST Articles in Jan 2022, Highly Cited in Semantic Scholar) </span>
 
 |<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Memory Management via Ownership Concept Rust and Swift: Experimental Study</em></span>. Elaf Alhazmi, Abdulwahab Aljubairy, <span style="color:#C0392B">Ahoud Alhazmi</span>, [International Journal of Computer Applications](https://www.ijcaonline.org/archives/volume183/number22/alhazmi-2021-ijca-921572.pdf), 183(22), 2021.</span> |  <img src="../images/owner.png"   height="300" width="600">
 
@@ -53,4 +53,4 @@ Refereed Journal Articles
 
 Refereed Book Chapters
 ---------------------
-- <span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Trust Management for Software-defined Heterogeneous Vehicular Ad Hoc Networks</em></span>. Adnan Mahmood, Wei Emma Zhang, Quan Z. Sheng, Sarah Ali Siddiqui and <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Security, Privacy and Trust in the IoT Environment. pp. 203-226. Springer.2019.
+- <span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Trust Management for Software-defined Heterogeneous Vehicular Ad Hoc Networks</em></span>. Adnan Mahmood, Wei Emma Zhang, Quan Z. Sheng, Sarah Ali Siddiqui and <span style="color:#C0392B">Abdulwahab Aljubairy</span>, Security, Privacy and Trust in the IoT Environment.
