@@ -2,7 +2,7 @@
 permalink: /ProfActv/
 title: ""
 ---
--	Technical Program Committee (TPC) Member, the International Joint Conference on Neural Networks (IJCNN 2025), Rome, Italy, June 30-July 5, 2025. [https://2025.ijcnn.org/}
+-	Technical Program Committee (TPC) Member, the International Joint Conference on Neural Networks (IJCNN 2025), Rome, Italy, June 30-July 5, 2025. <a href="https://2025.ijcnn.org/">link</a>
 -	Program Committee (PC) Member, the 23rd International Conference on Service-Oriented Computing (ICSOC 2025), Shenzhen, China, December 1-4, 2025. { http://icsoc2025.hit.edu.cn/}
 -	Program Committee (PC) Member, The 40th International Conference on Image and Vision Computing New Zealand (IVCNZ 2025), Wellington, New Zealand, November 19-21, 2025 { https://ecs.wgtn.ac.nz/Events/IVCNZ2025/WebHome}
 -	External review, The 1st International Conference on Innovation in Artificial Intelligence and Internet of Things, Jeddah, Kingdom of Saudi Arabia, May, 7-8 2025   {https://aiit.uj.edu.sa/}
