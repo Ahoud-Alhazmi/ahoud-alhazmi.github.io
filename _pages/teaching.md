@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 In UQU from 2012- current
+
 Third: 2024/2025
 -	Computers Theory. (5901314-3)   (Theoretical)
 -	Special Topics I.  (59014905-3)   (Theoretical)
