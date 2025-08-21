@@ -17,6 +17,19 @@ blockquote {
 }
 </style>
 
+Refereed Journal Articles
+----------------
+
+|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Can Interpretability of Deep Learning Models Detect Textual Adversarial Distribution?</em></span> <span style="color:#C0392B">Ahoud Alhazmi</span>, Abdulwahab Aljubairy, Wei Emma Zhang, Quan Z. Sheng. and Elaf Alhazmi. ACM Transactions on Intelligent Systems and Technology (TIST), accepted in 2025.
+
+|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Adversarial Attacks on Deep-learning Models in Natural Language Processing: A Survey</em></span>.Wei Emma Zhang, Quan Z. Sheng, <span style="color:#C0392B">Ahoud Alhazmi</span>, Chenliang Li, 2020.  ACM Transactions on Intelligent Systems and Technology (TIST), pp.1-41. [Springer]([[https://link.springer.com/article/10.1007/s00521-020-05667-z](https://dl.acm.org/doi/10.1145/3374217)](https://dl.acm.org/doi/abs/10.1145/3374217).</span> | <img src="../images/blackEditCrop.png"   height="300" width="600"> <span style="color:#C0392B">(EiC's Pick as Five Outstanding TIST Articles in Jan 2022, Highly Cited in Semantic Scholar) </span>
+
+|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Memory Management via Ownership Concept Rust and Swift: Experimental Study</em></span>. Elaf Alhazmi, Abdulwahab Aljubairy, <span style="color:#C0392B">Ahoud Alhazmi</span>, [International Journal of Computer Applications](https://www.ijcaonline.org/archives/volume183/number22/alhazmi-2021-ijca-921572.pdf), 183(22), 2021.</span> |  <img src="../images/owner.png"   height="300" width="600">
+
+
+|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>The Impact of Guided Metacognitive Feedback on Novice Programmers Using Learning by Teaching Environment</em></span>. Ahoud Alhazmi</span>, Rafika Maaroufi and Abdulwahab Aljubairy, Journal of King Abdulaziz University: Computing and Information Technology Sciences 8(2), 2019.| <img src="../images/KAU19.png"   height="300" width="600">
+
+
 
 Refereed Conference Proceedings
 -----------------------      
@@ -39,14 +52,6 @@ Refereed Conference Proceedings
 
 
 
-Refereed Journal Articles
-----------------
 
-|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Adversarial Attacks on Deep-learning Models in Natural Language Processing: A Survey</em></span>.Wei Emma Zhang, Quan Z. Sheng, <span style="color:#C0392B">Ahoud Alhazmi</span>, Chenliang Li, 2020.  ACM Transactions on Intelligent Systems and Technology (TIST), pp.1-41. [Springer]([https://link.springer.com/article/10.1007/s00521-020-05667-z](https://dl.acm.org/doi/abs/10.1145/3374217).</span> | <img src="../images/blackEditCrop.png"   height="300" width="600"> <span style="color:#C0392B">(EiC's Pick as Five Outstanding TIST Articles in Jan 2022, Highly Cited in Semantic Scholar) </span>
-
-|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Memory Management via Ownership Concept Rust and Swift: Experimental Study</em></span>. Elaf Alhazmi, Abdulwahab Aljubairy, <span style="color:#C0392B">Ahoud Alhazmi</span>, [International Journal of Computer Applications](https://www.ijcaonline.org/archives/volume183/number22/alhazmi-2021-ijca-921572.pdf), 183(22), 2021.</span> |  <img src="../images/owner.png"   height="300" width="600">
-
-
-|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>The Impact of Guided Metacognitive Feedback on Novice Programmers Using Learning by Teaching Environment</em></span>. Ahoud Alhazmi</span>, Rafika Maaroufi and Abdulwahab Aljubairy, Journal of King Abdulaziz University: Computing and Information Technology Sciences 8(2), 2019.| <img src="../images/KAU19.png"   height="300" width="600">
 
 
