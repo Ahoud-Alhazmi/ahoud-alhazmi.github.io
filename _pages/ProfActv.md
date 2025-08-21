@@ -3,15 +3,15 @@ permalink: /ProfActv/
 title: ""
 ---
 -	Technical Program Committee (TPC) Member, the International Joint Conference on Neural Networks (IJCNN 2025), Rome, Italy, June 30-July 5, 2025. <a href="https://2025.ijcnn.org/">link</a>
--	Program Committee (PC) Member, the 23rd International Conference on Service-Oriented Computing (ICSOC 2025), Shenzhen, China, December 1-4, 2025. { http://icsoc2025.hit.edu.cn/}
--	Program Committee (PC) Member, The 40th International Conference on Image and Vision Computing New Zealand (IVCNZ 2025), Wellington, New Zealand, November 19-21, 2025 { https://ecs.wgtn.ac.nz/Events/IVCNZ2025/WebHome}
--	External review, The 1st International Conference on Innovation in Artificial Intelligence and Internet of Things, Jeddah, Kingdom of Saudi Arabia, May, 7-8 2025   {https://aiit.uj.edu.sa/}
--	Program Committee (PC) Member, IEEE International Conference on Web Services (IEEE ICWS), Helsinki, Finland, July 7-12, 2025 { https://services.conferences.computer.org/2025/icws-2025/}
--	Reviewer, Journal of IEEE Transactions on Services Computing, 2025 { https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386}
--	Reviewer, Journal of IEEE Transactions on Information Forensics and Security 2025 { https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206}
--	Reviewer, Journal of IEEE Transactions on Computational Social Systems,2025 { https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650}
--	Program Committee (PC) Member, the 22nd International Conference on Service-Oriented Computing (ICSOC 2024), Tunis, Tunisia, December 3-6, 2024.
--	Program Committee (PC) Member, the 20th International Conference on Advanced Data Mining and Applications (ADMA 2024), Sydney, Australia, December 3-5, 2024.
+-	Program Committee (PC) Member, the 23rd International Conference on Service-Oriented Computing (ICSOC 2025), Shenzhen, China, December 1-4, 2025. <a href="http://icsoc2025.hit.edu.cn/">link</a>
+-	Program Committee (PC) Member, The 40th International Conference on Image and Vision Computing New Zealand (IVCNZ 2025), Wellington, New Zealand, November 19-21, 2025 <a href="https://ecs.wgtn.ac.nz/Events/IVCNZ2025/WebHome">link</a>
+-	External review, The 1st International Conference on Innovation in Artificial Intelligence and Internet of Things, Jeddah, Kingdom of Saudi Arabia, May, 7-8 2025 <a href="https://aiit.uj.edu.sa/">link</a>
+-	Program Committee (PC) Member, IEEE International Conference on Web Services (IEEE ICWS), Helsinki, Finland, July 7-12, 2025.<a href="https://services.conferences.computer.org/2025/icws-2025/">link</a>
+-	Reviewer, Journal of IEEE Transactions on Services Computing, 2025.<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386">link</a>
+-	Reviewer, Journal of IEEE Transactions on Information Forensics and Security 2025. <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206">link</a>
+-	Reviewer, Journal of IEEE Transactions on Computational Social Systems,2025.<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650">link</a>
+-	Program Committee (PC) Member, the 22nd International Conference on Service-Oriented Computing (ICSOC 2024), Tunis, Tunisia, December 3-6, 2024. <a href="https://icsoc2024.redcad.tn/">link</a>
+-	Program Committee (PC) Member, the 20th International Conference on Advanced Data Mining and Applications (ADMA 2024), Sydney, Australia, December 3-5, 2024. <a href="https://adma2024.github.io/">link</a>
 -	Reviewer, Journal of Applied Intelligence (APIN), 2024.
 -	Reviewer, Journal of IEEE Transactions on Intelligent Vehicles, 2024.
 -	Technical Program Committee (TPC) Member, the International Joint Conference on Neural Networks (IJCNN 2024), Yokohama, Japan, June 30-July 5, 2024.
