@@ -73,6 +73,4 @@ In Tabiah University, 2011
 In King Abdulaziz University, 2011
 - Algorithm Analysis and Design
 
-<img width="468" height="645" alt="image" src="https://github.com/user-attachments/assets/d5cf8519-fb9d-4f4f-87fb-4eba62e1223e" />
-
 
