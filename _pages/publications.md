@@ -20,7 +20,7 @@ blockquote {
 Refereed Journal Articles
 ----------------
 
-|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Can Interpretability of Deep Learning Models Detect Textual Adversarial Distribution?</em></span> <span style="color:#C0392B">Ahoud Alhazmi</span>, Abdulwahab Aljubairy, Wei Emma Zhang, Quan Z. Sheng. and Elaf Alhazmi. ACM Transactions on Intelligent Systems and Technology (TIST), accepted in 2025.
+|<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Can Interpretability of Deep Learning Models Detect Textual Adversarial Distribution?</em></span> <span style="color:#C0392B">Ahoud Alhazmi</span>, Abdulwahab Aljubairy, Wei Emma Zhang, Quan Z. Sheng. and Elaf Alhazmi. ACM Transactions on Intelligent Systems and Technology (TIST) in 2025.
 
 |<span style="font-size:15px"><span style="background-color: #F2F3F4"><em>Adversarial Attacks on Deep-learning Models in Natural Language Processing: A Survey</em></span>.Wei Emma Zhang, Quan Z. Sheng, <span style="color:#C0392B">Ahoud Alhazmi</span>, Chenliang Li, 2020.  ACM Transactions on Intelligent Systems and Technology (TIST), pp.1-41. [Springer]([[https://link.springer.com/article/10.1007/s00521-020-05667-z](https://dl.acm.org/doi/10.1145/3374217)](https://dl.acm.org/doi/abs/10.1145/3374217).</span> | <img src="../images/blackEditCrop.png"   height="300" width="600"> <span style="color:#C0392B">(EiC's Pick as Five Outstanding TIST Articles in Jan 2022, Highly Cited in Semantic Scholar) </span>
 
